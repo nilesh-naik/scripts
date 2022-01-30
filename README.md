@@ -9,3 +9,4 @@ Script | Description
 `smtp-test.py` | Test sending email using SMTP.
 `sns-to-flock.py` | Test sending message to Flock based on SNS event.
 `yaml_update.py`| Update any key in a YAML file in-place.
+`delete_logs.py` | Delete unused log directories from Logentries.
